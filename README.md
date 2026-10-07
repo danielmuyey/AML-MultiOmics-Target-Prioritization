@@ -454,4 +454,6 @@ def main():
 
 if __name__=="__main__":
     main()
+    
+[![DOI](https://zenodo.org/badge/1408335983.svg)](https://doi.org/10.5281/zenodo.23205428)
 
